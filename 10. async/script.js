@@ -52,6 +52,5 @@ window.navigator
 window.history
 window.screen
 
-// Document Object Model (DoM)
 window.document
 
